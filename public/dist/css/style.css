@@ -1,0 +1,87 @@
+
+#product_content{
+    /* width: 135%; */
+    position: absolute;
+    /* left: -33px; */
+    right: 32px;
+}
+#transections_content{
+	right: -223px;
+    width: 170%;
+    position: absolute;
+}
+#transaction_column{
+	margin-left: 2px;
+}
+#m-content{
+	width: 129%;
+	 position: absolute;
+    /* left: -33px; */
+    right: -101px;
+}
+
+.modal-dialog{
+  width: 966px ;
+
+  
+}
+.details_profile_pic img{
+  float:right;
+  padding-right:40px;
+  
+  
+  
+}
+.details_profile_pic{
+width:100%;
+text-align:center;
+}
+
+#userdetail_text_area{
+  width:80%;
+  height:100px;
+}
+
+.my_name{
+  height:100px;
+}
+.detail_btn{
+  text-align: center;
+  
+}
+#update_btn{
+  width:80px; height:35px;
+  background: silver;
+  margin-top:30px;
+  font-weight:bolder;
+}
+#transections_content{
+  right: -170px;
+  width: 135%;
+  position: absolute;
+}
+.coupens_institute{
+  text-align: center;
+  background: #fff;
+}
+.institute1{
+  height:100px;  
+  width: 92%;
+}
+
+.institute2{
+  height:100px;  
+  width: 92%;
+}
+
+.institute3{
+  height:100px;  
+  width: 90%;
+}
+#all_coupns_fields{
+  margin-top: 41px;
+}
+
+#search{height:36px; margin-top: 15px;border: 2px solid #00a65a} 
+#search_div{margin-top: 20px;}
+#search_button{height:36px; margin-top:-4px;border-radius: 0px;}
